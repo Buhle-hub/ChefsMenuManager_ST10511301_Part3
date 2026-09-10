@@ -18,9 +18,8 @@ Technlogies:
 - Expo Router
 - Git & GitHub
 
-How to run it
-```bash
-git clone https://github.com/Buhle-hub/ChefsMenuManager_ST10511301_Part2.git
-cd ChefsMenuManager_ST10511301_Part2
-npm install
+
 npx expo start
+
+YouTube link:
+https://youtu.be/6zNB8KWBXT8
