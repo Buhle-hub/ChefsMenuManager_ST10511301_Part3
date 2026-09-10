@@ -1,5 +1,26 @@
-ChefMenuManager is a Reactive Native Mobile Application that created for the owner called Christoffel. The app is used to solve the problem of manual management by allowing the chef to digitally add, view and organize the menu Add menu item: is used to add dish name, description and price The course has a dropdown for either starter, main or dessert type of course Input validation: does not allow empty submissions Scroll menu: view the dishes
+ChefsMenuManager
 
-References: MAST5112 lecturer slides 
-W3Schools
+Student: ST10511301 BuhleBakhe Ngwenya 
+Chef: Christoffel's Kitchen  
+GitHub link: https://github.com/Buhle-hub/ChefsMenuManager_ST10511301_Part2
 
+
+ChefMenuManager is a React Native Mobile Application that was created for the owner called Christoffel. The app is used to solve the problem of manual menu management by allowing the chef to digitally add, view and organize menu items.
+The features:
+- Add menu item: is used to add dish name, description and price
+- Course Picker: dropdown for Starter, Main course, Dessert
+- Input validation: does not allow empty submissions
+- Scrollable menu list: view all dishes
+- Clean UI with StyleSheet
+Technlogies:
+- React Native / Expo
+- JavaScript / TypeScript (src/app/index.tsx)
+- Expo Router
+- Git & GitHub
+
+How to run it
+```bash
+git clone https://github.com/Buhle-hub/ChefsMenuManager_ST10511301_Part2.git
+cd ChefsMenuManager_ST10511301_Part2
+npm install
+npx expo start
